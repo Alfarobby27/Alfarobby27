@@ -2,9 +2,11 @@
 
 <h1 align="center"><b>Hi there</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center">I'm <b>Hallo, I'm Alfarobby (20 y.o) ! 😎</h3>
+<h3 align="center"><b>Hallo, I'm Alfarobby (20 y.o) ! 😎</h3>
 
 <img src="aset/pembatas.gif" width="100%"><br>
+
+<img src="aset/mycontact.gif" width="100%"><br>
 
 <h2 align="center"><img src="aset/contact_me.gif" width="35px"/><b>Connect with me</b>
 
@@ -53,7 +55,7 @@
 
 <br><img src="aset/pembatas.gif" width="100%"><br><br>
 
-<h2 align="center"><img src="aset/stats.gif" width="35px"/><b> Github Stats </b></h2>
+<h2 align="center"><img src="aset/stats.gif" width="35px"/><b> GitHub Stats </b></h2>
 
 <a href="https://github.com/Alfarobby27/">
   <img src="https://github-readme-stats.vercel.app/api?username=Alfarobby27&&include_all_commits=true&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="100%">
@@ -65,5 +67,6 @@
 <br><img src="aset/pembatas.gif" width="500%"><br><br>
 
 <div>
-	<img src="aset/programmer.gif" width="100%" hight="100%">
+	<img src="aset/programmer.gif" width="100%" hight="100%"><br>
+        <img src="aset/waves.svg" width="100%">
 </div>
