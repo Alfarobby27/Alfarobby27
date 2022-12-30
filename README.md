@@ -1,10 +1,10 @@
-<p align='center'><a href="https://github.com/Alfarobby27"><img height="200" src="https://avatars.githubusercontent.com/<Alfarobby27>"></a>&nbsp;&nbsp;</p>
+<p align='center'><a href="https://github.com/Alfarobby27"><img height="200" src="aset/myprofile.jpg"></a>&nbsp;&nbsp;</p>
 
 <h1 align="center"><b>Hi there</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h3 align="center">I'm <b>Hallo, I'm Alfarobby (20 y.o) ! 😎</h3>
 
-<img src="aset/pembatas.gif" width="1000%"><br>
+<img src="aset/pembatas.gif" width="100%"><br>
 
 <h2 align="center"><img src="aset/contact_me.gif" width="35px"/><b>Connect with me</b>
 
@@ -16,7 +16,7 @@
 
 </h2>
 
-<br><img src="aset/pembatas.gif" width="500%"><br><br>
+<br><img src="aset/pembatas.gif" width="100%"><br><br>
 
 <h2 align="center"><img src="aset/about_me.gif" width="20px">&nbsp;&nbsp;<b>About me</b></h2>
 
@@ -51,15 +51,15 @@
 
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<br><img src="aset/pembatas.gif" width="500%"><br><br>
+<br><img src="aset/pembatas.gif" width="100%"><br><br>
 
 <h2 align="center"><img src="aset/stats.gif" width="35px"/><b> Github Stats </b></h2>
 
 <a href="https://github.com/Alfarobby27/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alfarobby27&&include_all_commits=true&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Alfarobby27&theme=vision-friendly-dark&hide_border=true&date_format=j%20M%5B%20Y%5D">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alfarobby27&title=MultipleLang,Stars,Followers,Issues,Commits,Puller&row=2&column=3&layout=compact&theme=juicyfresh&no-frame=true&no-bg=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfarobby27&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=11">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alfarobby27&&include_all_commits=true&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="100%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Alfarobby27&theme=vision-friendly-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" width="100%">
+  <img src="https://github-profile-trophy.vercel.app/?username=Alfarobby27&title=MultipleLang,Stars,Followers,Issues,Commits,Puller&row=2&column=3&layout=compact&theme=juicyfresh&no-frame=true&no-bg=true" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfarobby27&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=11" width="100%">
 </a>
 
 <br><img src="aset/pembatas.gif" width="500%"><br><br>
