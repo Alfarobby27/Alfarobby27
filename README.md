@@ -61,7 +61,7 @@
        <img src="https://github-readme-stats.vercel.app/api?username=Alfarobby27&&include_all_commits=true&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="450" alt="Alfarobby27"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Alfarobby27&theme=vision-friendly-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" width="100%">
   <img src="https://github-profile-trophy.vercel.app/?username=Alfarobby27&title=MultipleLang,Stars,Followers,Issues,Commits,Puller&row=2&column=3&layout=compact&theme=juicyfresh&no-frame=true&no-bg=true" width="450%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfarobby27&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=11" width="450%">
+	<img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=Alfarobby27&theme=vision-friendly-dark&hide_border=true&langs_count=11" width="450%">
 </a>
 
 <br><img src="aset/pembatas.gif" width="500%"><br><br>
