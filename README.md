@@ -36,13 +36,17 @@
   ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![Pascal](https://img.shields.io/badge/Pascal-gold?logo=paperspace&style=for-the-badge&logoColor=black)
   ![Java](https://img.shields.io/badge/Java-e4000a?style=for-the-badge&logo=openjdk&logoColor=white)
-
-
+  ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
+	
 - **Website**
 
    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
    ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+	
+- **Data Base**
+	
+   ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 	
 - **Software & Tools**
 
