@@ -71,11 +71,25 @@
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 	
 <h2 align="center"><img src="aset/stats.gif" width="35px"/><b> GitHub Stats </b></h2>
-	
+
 <div align="center">
 <a href="https://github.com/Alfarobby27/">
-      <img src="https://github-readme-stats.vercel.app/api?username=Alfarobby27&&include_all_commits=true&count_private=true&show_icons=true&theme=synthwave&hide_border=true" width="450" alt="Alfarobby27"/>
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfarobby27&theme=synthwave&hide_border=true&date_format=j%20M[%20Y]" width="450" alt="Alfarobby27"/>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfarobby27&layout=compact&theme=synthwave" width="450"  alt="Alfarobby27"/>
-     <img src="https://github-profile-trophy.vercel.app/?username=Alfarobby27&title=MultipleLang,Stars,Followers,Issues,Commits,Puller&row=2&column=3&layout=compact&theme=synthwave&no-frame=true&no-bg=true" width="450" alt="Alfarobby27"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Alfarobby27&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="420"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfarobby27&theme=tokyonight&hide_border=true" width="420"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfarobby27&layout=compact&theme=tokyonight&hide_border=true" width="420"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Alfarobby27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" width="420"/>
+
 </a>
+</div>
+
+<br>
+
+<h2 align="center"><b>📈 Contribution Graph</b></h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alfarobby27&theme=tokyo-night&hide_border=true"/>
+</div>
