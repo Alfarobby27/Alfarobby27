@@ -2,7 +2,7 @@
 
 <h1 align="center"><b>Hi there</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center"><b>Hallo, I'm Alfarobby! 😎</h3>
+<h3 align="center"><b>Hello, I'm Alfarobby! 😎</b></h3>
 	
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -14,9 +14,8 @@
 
 <div align="center">
 	<a href="https://github.com/Alfarobby27" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>
+	<a href="https://www.linkedin.com/in/alfarobby" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://instagram.com/alfarobby_95?igshid=MWM2YjBjM2Q=" target="_blank"><img src="https://img.shields.io/badge/instagram-%2397169e.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	<a href="https://t.me/alfarobby62" target="_blank"><img src="https://img.shields.io/badge/telegram-%23184ccc.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-	<a href="https://wa.me/6285641126877" target="_blank"><img src="https://img.shields.io/badge/whatsapp-%2317ad1e.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 	<a href="https://twitter.com/alfarobby62?t=JGAPPi-xdqa7LRFXEXPndQ&s=08" target="_blank"><img src="https://img.shields.io/badge/twitter-%232a65f7.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </div>
 
@@ -24,8 +23,9 @@
 
 <h2 align="center"><img src="aset/about_me.gif" width="20px">&nbsp;&nbsp;<b>About me</b></h2>
 
-- I'd like to do project that has relation to anime. 👻
-- A newbie to programming, but trying to get the hang of it.
+- Passionate about building projects, especially those inspired by anime and creative concepts. 👻  
+- An aspiring developer with hands-on experience in modern web technologies and continuous learning mindset.  
+- Familiar with developing full-stack applications using React JS, Flask, and modern frontend tools.  
 
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -38,20 +38,28 @@
   ![Java](https://img.shields.io/badge/Java-e4000a?style=for-the-badge&logo=openjdk&logoColor=white)
   ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 	
-- **Website**
+- **Frontend & Web Development**
 
    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+   ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
    ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+   ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 	
-- **Data Base**
-	
+- **Backend & Data**
+
+   ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+   ![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white)
+   ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
    ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-	
-- **Software & Tools**
+   ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+- **Tools & Deployment**
 
    ![Git](https://img.shields.io/badge/git-F6F6F6.svg?style=for-the-badge&logo=git&logoColor=orange)
    ![GitHub](https://img.shields.io/badge/GitHub-020202.svg?style=for-the-badge&logo=github&logoColor=white)
+   ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 - **IDE**
 
