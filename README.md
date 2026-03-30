@@ -73,17 +73,17 @@
 <h2 align="center"><img src="aset/stats.gif" width="35px"/><b> GitHub Stats </b></h2>
 
 <div align="center">
-<a href="https://github.com/Alfarobby27/">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Alfarobby27&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Alfarobby27&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="400"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfarobby27&theme=tokyonight&hide_border=true" width="420"/>
+<img src="https://streak-stats.demolab.com?user=Alfarobby27&theme=tokyonight&hide_border=true" width="400"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfarobby27&layout=compact&theme=tokyonight&hide_border=true" width="420"/>
+<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Alfarobby27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfarobby27&layout=compact&theme=tokyonight&hide_border=true" width="400"/>
 
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=Alfarobby27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8" width="400"/>
+
 </div>
 
 <br>
@@ -91,5 +91,5 @@
 <h2 align="center"><b>📈 Contribution Graph</b></h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alfarobby27&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alfarobby27&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
