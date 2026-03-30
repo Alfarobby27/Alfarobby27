@@ -74,10 +74,12 @@
 
 <div align="center">
 
-<!-- Main Stats (Stable) -->
-<img src="https://github-readme-stats.vercel.app/api?username=Alfarobby27&show_icons=true&hide_border=true&theme=default" width="400"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alfarobby27&theme=github_dark" width="90%"/>
 
-<!-- Top Languages (Stable) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfarobby27&layout=compact&hide_border=true&theme=default" width="400"/>
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alfarobby27&theme=github_dark" width="45%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alfarobby27&theme=github_dark" width="45%"/>
 
 </div>
